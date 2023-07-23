@@ -2,7 +2,7 @@
 
 If you want to see this project Live then click on Deployment link.
 
-# Deployment :-
+# Deployment link :- https://hightableafrica-stock-assignment.onrender.com
 
 To run a React application, you'll need to clone the repository to your local machine and then follow the steps to run the application. Here's a step-by-step guide:
 
