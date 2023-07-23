@@ -1,5 +1,53 @@
 # Getting Started with Create React App
 
+If you want to see this project Live then click on Deployment link.
+
+# Deployment :-
+
+To run a React application, you'll need to clone the repository to your local machine and then follow the steps to run the application. Here's a step-by-step guide:
+
+Clone the Git repository:
+
+Open your terminal or command prompt.
+Use the git clone command to clone the repository to your local machine. Replace "repository-url" with the URL of the Git repository you want to clone. For example:
+bash
+Copy code
+git clone "repository-url"
+This will create a new directory with the repository's name and copy all the files from the repository to your local machine.
+Navigate to the project folder:
+
+Use the cd command to change the directory to the cloned repository. For example:
+bash
+Copy code
+cd my-app
+Replace my-app with the name of the repository's directory.
+Install dependencies:
+
+After navigating to the project folder, you'll need to install the project's dependencies. Usually, a React project will have a package.json file that lists all the required packages.
+Use npm install or yarn install to install the dependencies. For example:
+Copy code
+npm install
+or
+Copy code
+yarn install
+This will download and install all the necessary packages for the React application.
+Start the development server:
+
+Once the dependencies are installed, use npm start or yarn start to start the development server and run the React application. For example:
+sql
+Copy code
+npm start
+or
+sql
+Copy code
+yarn start
+The development server will compile the code and automatically open the application in your default web browser at http://localhost:3000. It will also hot-reload the page whenever you make changes to the code.
+Open your code editor:
+
+Navigate to the project folder and open it with your preferred code editor (e.g., Visual Studio Code, Sublime Text, etc.).
+You can start modifying the code inside the src folder to make changes to the React application.
+That's it! You now have the React application running on your local machine, and you can start working on it, making changes, and testing the application locally. Remember to commit and push your changes to the Git repository when you are ready to save your progress and collaborate with others.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
